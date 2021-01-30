@@ -263,4 +263,4 @@ client.on("message", async message => {
 })
 
 
-client.login(token)
+client.login(ODA0ODgxNTE5NjY2NzkwNDUw.YBSyVA.rlrMle-U5RkENWHXRw7pwiVU_EI)
